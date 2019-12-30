@@ -1,9 +1,8 @@
 import os
 if os.path.exists("/data/data/com.termux/files/usr/etc/motd"):
   os.remove("/data/data/com.termux/files/usr/etc/motd")
-fname = input("please enter your first name:")
-if fname = "" :
-  print("Don't Leave it blank")
+while len(fname) = 0
+      fname = input("please enter your first name:")
 lname = input("Please enter your last name:")
 file = open("/data/data/com.termux/files/usr/etc/bash.bashrc","w")
 code1 ="if  [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then\n    command_not_found_handle(){\n /data/data/com.termux/files/usr/libexec/termux/command-not-found ' $1'\n}\nfi\nPS1='\$'"
