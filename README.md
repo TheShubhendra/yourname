@@ -2,7 +2,7 @@
 you can remove the boring interface of your termux and display your stylish name is ASCII.
 # Installation
 
-git clone https://github.com/Shubhendra-kushwaha/YourName.git
+git clone https://github.com/TheShubhendra/YourName.git
 
 cd YourName
 
