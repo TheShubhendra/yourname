@@ -1,18 +1,18 @@
 # YourName
-you can remove the boring interface of your termux and display your stylish name is ASCII.
+By the use of this script you can remove the boring interface of your termux and display your stylish name is ASCII.
 # Installation
 
 git clone https://github.com/TheShubhendra/YourName.git
 
 cd YourName
 
-chmod +x *
+chmod +x run.sh
 
-bash install.sh
+bash run.sh
 
 # How to use 
 
-python YourName.py
+bash run.sh
 
 enter your first name
 
@@ -20,10 +20,10 @@ enter your last name
 
 
 # requirements
-python fiplet toilet 
+fiplet toilet 
 
 note: you don't need to install any of the given requirements script will automatically install it.
 # writer
 script is written by SHUBHENDRA KUSHWAHA
 
-you can contact me on my facebook page https:fb.me/TheGeniusHacker
+you can contact me on Telegram t.me/TheShubhendra
