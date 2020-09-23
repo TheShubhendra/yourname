@@ -6,7 +6,7 @@ fi
 if [ $(dpkg-query -W -f='${Status}' toilet 2>/dev/null | grep -c "ok installed") -eq 0 ];
 then
   echo "Installing Toilet"
-  apt-get -y toilet
+  apt-get install -y toilet
 fi
 echo "Please enter your first name : "
 read fname
