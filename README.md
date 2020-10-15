@@ -28,4 +28,4 @@ Note: you don't need to install any of the given requirements script will automa
 # writer
 Script is written by SHUBHENDRA KUSHWAHA
 
-You can contact me on Telegram t.me/TheShubhendra
+You can contact me on Telegram [t.me/TheShubhendra](t.me/TheShubhendra)
